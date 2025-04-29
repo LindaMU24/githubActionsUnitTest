@@ -14,7 +14,7 @@ class ControllerTest {
         //act
         int result = controller.myMethod(1,2);
         //assert
-        assertEquals(4,result);
+        assertEquals(3,result);
     }
 @Test
     void divisionShouldReturnQuote(){
