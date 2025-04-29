@@ -8,8 +8,6 @@ public class Controller {
     }
     public double division(int a, int b) {
 
-        //lägger till en massa cool kod
-        a++;
         return a / b;
     }
 }
